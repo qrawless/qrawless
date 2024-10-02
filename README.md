@@ -6,17 +6,9 @@
 
 #### Languages:
 
-![Php](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-
-#### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-#### Tools and Technologies
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-00000F?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
 #### IDEs
 
