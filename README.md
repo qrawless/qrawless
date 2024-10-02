@@ -12,7 +12,7 @@
 
 #### IDEs
 
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)&nbsp;
+![PhpStorm](https://img.shields.io/badge/PhpStorm-af2eff.svg?style=for-the-badge&logo=phpstorm&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
@@ -21,6 +21,6 @@
 <p align = "center">
 
   [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/serhan-adalıoğlu-576a09188)&nbsp;
-  [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/qrawless)&nbsp;
+  [<img src="https://img.shields.io/badge/instagram-833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/qrawless)&nbsp;
 
 </p>
